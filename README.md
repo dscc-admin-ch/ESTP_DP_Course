@@ -45,12 +45,12 @@ For each library, you will find:
 ESTP_DP_Course/
 │
 ├── smartnoise-sql/
-│   ├── exercises.ipynb
-│   └── corrections.ipynb
+│   ├── Smartnoise-SQL-Exercises.ipynb
+│   └── Smartnoise-SQL-Corrections.ipynb
 │
 ├── diffprivlib/
-│   ├── exercises.ipynb
-│   └── corrections.ipynb
+│   ├── DiffPrivLib-Exercises.ipynb
+│   └── DiffPrivLib-Corrections.ipynb
 │
 ├── smartnoise-synth/
 │   ├── exercises.ipynb

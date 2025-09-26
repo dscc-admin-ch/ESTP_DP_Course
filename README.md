@@ -24,14 +24,12 @@ Open a notebook and follow the instructions!
 
 ## 📚 Repo Structure
 
-The repository is organized around four main libraries for differential privacy:
+The repository is organized around three main libraries for differential privacy:
 
 1. **[SmartNoise SQL](https://github.com/opendp/smartnoise-sdk)**
    - Apply differential privacy to SQL queries.
 2. **[Diffprivlib](https://github.com/IBM/differential-privacy-library)**
    - IBM’s library for differentially private machine learning and statistics.
-3. **[SmartNoise Synth](https://github.com/opendp/smartnoise-sdk)**
-   - Tools for generating differentially private synthetic data.
 4. **[OpenDP](https://opendp.org/)**
    - The OpenDP project’s core library for building custom DP transformations and working with polars tables.
 
@@ -52,13 +50,9 @@ ESTP_DP_Course/
 │   ├── DiffPrivLib-Exercises.ipynb
 │   └── DiffPrivLib-Corrections.ipynb
 │
-├── smartnoise-synth/
-│   ├── exercises.ipynb
-│   └── corrections.ipynb
-│
 ├── opendp_polars/
-│   ├── exercises.ipynb
-│   └── corrections.ipynb
+│   ├── OpenDP_Polars_Exercises.ipynb
+│   └── OpenDP_Polars_Corrections.ipynb
 │
 └── README.md
 ```

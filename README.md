@@ -56,7 +56,7 @@ ESTP_DP_Course/
 │   ├── exercises.ipynb
 │   └── corrections.ipynb
 │
-├── opendp/
+├── opendp_polars/
 │   ├── exercises.ipynb
 │   └── corrections.ipynb
 │

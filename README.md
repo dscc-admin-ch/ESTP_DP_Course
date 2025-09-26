@@ -51,8 +51,8 @@ ESTP_DP_Course/
 │   └── DiffPrivLib-Corrections.ipynb
 │
 ├── opendp_polars/
-│   ├── exercises.ipynb
-│   └── corrections.ipynb
+│   ├── OpenDP_Polars_Exercises.ipynb
+│   └── OpenDP_Polars_Corrections.ipynb
 │
 └── README.md
 ```

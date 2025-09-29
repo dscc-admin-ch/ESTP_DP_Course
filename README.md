@@ -9,7 +9,7 @@ The material introduces how to apply differential privacy using open-source libr
 
 1. **Clone this repository:**
    ```bash
-   git clone [https://github.com/dscc-admin-ch/ESTP_DP_Course.git](https://github.com/dscc-admin-ch/ESTP_DP_Course.git)
+   git clone https://github.com/dscc-admin-ch/ESTP_DP_Course.git
    cd ESTP_DP_Course
 
 2. **Install global dependencies**
